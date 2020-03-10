@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+div,
+img,
+form {
+  padding: 15px;
+  margin: 12px;
+}
